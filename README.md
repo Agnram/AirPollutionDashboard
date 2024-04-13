@@ -1,6 +1,6 @@
 # Air pollution in Poland
 
-Dashboard presenting real-time data based on results provided by the GIOŚ API https://powietrze.gios.gov.pl/pjp/content/api
+Dashboard presenting real-time data based on results provided by the [GIOŚ API](https://powietrze.gios.gov.pl/pjp/content/api)   
 Until January 1, 2024 data was automatically updated within ArcGIS Online once a day at 8:00 PM.
 
 #### Dashboard  includes:
